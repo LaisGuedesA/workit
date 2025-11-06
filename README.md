@@ -11,7 +11,7 @@ Durante o desenvolvimento, foram aplicadas boas práticas de estruturação sem�
 - **Tecnologias Usadas**: **HTML**, **CSS**, **JavaScript**.
 
 ## :rice_scene: Screenshot
-
+<img width="1850" height="882" alt="Image" src="https://github.com/user-attachments/assets/aeb907b7-a3e1-42d2-a8e2-1a9ac0a283aa" />
 
 ## :dvd: Demonstração
 Confira a demonstração do site: [Workit]( )
