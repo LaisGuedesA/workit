@@ -1,5 +1,4 @@
-# Landing Page - Corredores Voluntários
-<img src="https://github.com/user-attachments/assets/096a86b0-2f5f-41ad-8f2d-38c8adbfd8ab" alt="Logo" width="100"/>
+# Landing Page - Workit
 
 ## 🧩 Sobre o Projeto
 
